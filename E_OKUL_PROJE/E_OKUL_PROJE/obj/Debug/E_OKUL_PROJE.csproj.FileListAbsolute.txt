@@ -1,0 +1,16 @@
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\bin\Debug\E_OKUL_PROJE.exe.config
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\bin\Debug\E_OKUL_PROJE.exe
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\bin\Debug\E_OKUL_PROJE.pdb
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.exe
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.pdb
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.FrmOgrenciNotlar.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.FrmOgretmen.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.FrmKulupler.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.FrmDersler.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.FrmOgrenciIşlemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\E_OKUL_PROJE\E_OKUL_PROJE\obj\Debug\E_OKUL_PROJE.FrmSınavNot.resources
